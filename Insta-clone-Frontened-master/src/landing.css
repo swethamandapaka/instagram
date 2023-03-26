@@ -1,0 +1,36 @@
+.front{
+    padding-left: 20px;
+    padding-top: 20px;
+    width: 30vw;
+    height: 95vh
+    }
+    .front-box{
+      display: flex;
+    }
+    .enter{
+      display: flex;
+      text-align: center;
+      align-items: center;
+      justify-content: center;
+    font-size: 1.5em; 
+      color: blueviolet;
+    
+    }
+    .head{
+      display: flex;
+      margin-bottom: 25vh;
+      position: relative;
+      left: 32vh;
+       
+    }
+    .btn{
+      width: 200px;
+      height: 50px;
+      background-color: aquamarine;
+    }
+    .btn:hover{
+      font-size: 20px;
+      cursor: pointer;
+      transform: scale(1.2);
+      background-color: aquamarine;
+    }

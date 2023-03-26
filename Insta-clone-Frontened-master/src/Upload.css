@@ -1,0 +1,38 @@
+.form-container {
+    display: flex;
+    width: 30vw;
+    margin: 5vh 33vw;
+    padding: 20px;
+    border: 2px solid rgb(78, 0, 167);
+    text-align: center;
+
+}
+
+.form-container input[type=file] {
+    width: 90%;
+    height:20px;
+    border: 2px solid green;
+}
+
+.form-container input[id=description] {
+    width: 90%;
+    height: 20px;
+    border: 2px solid green;
+}
+
+.form-container input {
+    margin: 20px;
+    border: 2px solid green;
+    height: 20px;
+}
+
+.form-container button {
+    display: block;
+    margin: auto;
+    padding: .3rem 1.5rem;
+    border-radius: 5px;
+}
+.form-container button:hover{
+    cursor: pointer;
+    background-color: darkorchid;
+}
