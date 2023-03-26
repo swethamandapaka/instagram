@@ -1,0 +1,17 @@
+.container{
+    display: flex;
+    flex-direction: row;
+    
+    border-bottom: 2px solid green;
+    
+  }
+  h3{
+    font-size: 25px;
+    color: darkgreen;
+  }
+  .camera{
+    margin-left: 1000px;
+  }
+  img:hover{
+    cursor: pointer;
+  }

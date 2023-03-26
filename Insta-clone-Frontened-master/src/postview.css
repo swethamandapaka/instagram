@@ -1,0 +1,52 @@
+.box{
+    margin-top: 10px;
+  
+   border: 2px solid black;
+   margin-left: 350px;
+   margin-right: 350px;
+    justify-content: center;
+    height: auto;
+    
+  }
+  .location{
+    display: block;
+  }
+  .wrapper , .description{
+    padding: 10px;
+  }
+  .more{
+    position: relative;
+    left: 580px;
+    bottom: 30px;
+    width: 35px;
+  }
+  .display{
+    margin-top: -25px;
+    width: 645px;
+    height: 500px;
+  }
+  .icons{
+    width: 30px;
+    margin-left: 20px;
+  }
+  .date{position: relative;
+    left: 540px;
+    bottom: 50px;
+    width: 35px;
+  
+  }
+  .likes{
+    margin-left: 30px;
+  }
+  .description{
+    margin-top: -15px;
+    margin-bottom: 10px;
+    margin-left: 10px;
+  }
+  
+    .insta-logo{
+      margin-left: 50px;
+    }
+    h3:hover{
+      cursor: pointer;
+    }
